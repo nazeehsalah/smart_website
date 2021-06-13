@@ -848,3 +848,9 @@ nav a::before {
         margin-bottom: 20px;
     }
 }
+
+.contact {
+    margin-top: 20px;
+    color: white;
+    text-align: right;
+}
