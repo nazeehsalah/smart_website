@@ -445,11 +445,15 @@ nav a::before {
 
 .slide-caption h2 {
     margin-top: 0px;
-    font-size: 60px;
+    /* font-size: 60px; */
     text-transform: uppercase;
     font-weight: 900;
     color: #fff;
     margin-bottom: 25px;
+}
+
+.fa {
+    color: #EE4236 !important;
 }
 
 
@@ -505,8 +509,8 @@ nav a::before {
 }
 
 #tabs ul .ui-tabs-active span {
-    background: #faf5b2;
-    border: #faf5b2;
+    background: #fff;
+    border: #fff;
     line-height: 90px;
     border-bottom: none;
 }
@@ -651,12 +655,12 @@ nav a::before {
 }
 
 #contact h2 {
-    font-size: 29px;
+    /* font-size: 29px; */
     text-transform: uppercase;
     font-weight: 900;
     color: #fff;
     margin-top: 0px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 #contact input,
