@@ -522,11 +522,24 @@ nav a::before {
 .tabs-content {
     margin-right: 60px;
     width: 585px;
-    text-align: left;
+    text-align: right;
     display: inline-block;
     background: #fff;
     margin-right: 30px;
-    padding: 60px;
+    padding: 30px;
+}
+
+.tabs-content .vision {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.tabs-content .vision p {
+    margin-top: 0;
+}
+
+.tabs-content .vision li p {
+    margin-top: 10px;
 }
 
 .tabs-content h2 {
